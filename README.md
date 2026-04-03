@@ -1,4 +1,4 @@
-# 🎓 EduPortal – Online Course Management System (Backend)
+# 🎓 EduPortal – Online Course Management System
 
 EduPortal is a scalable backend system for an online learning platform built using **Spring Boot**. It supports user **authentication**, **course management**, **enrollment**, and role-based access control for Students, Teachers, and Admins.
 
