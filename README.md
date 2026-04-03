@@ -43,5 +43,3 @@ EduPortal is a scalable backend system for an online learning platform built usi
 - View platform analytics
 
 ---
-
-## 🏗️ Project Structure
